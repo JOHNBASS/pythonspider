@@ -1,1 +1,1 @@
-ª¦ÂÎµ{¦¡ for openshift by john
+ python spider for openshift by john
